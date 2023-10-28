@@ -37,7 +37,7 @@ const products = [
     },
     {
         id: '5',
-        name: 'Imperial Ipa 1 Lts',
+        name: 'Imperial IPA 1 Lts',
         price: 12000.00,
         category: 'Cervezas',
         imagen: 'https://static.cotodigital3.com.ar/sitios/fotos/full/00471000/00471009.jpg?3.0.160a',
